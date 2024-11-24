@@ -13,7 +13,9 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSAP-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />    
+<img src="https://img.shields.io/badge/EC--Council-CEH-005C5C?style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
 
