@@ -7,12 +7,28 @@ I am currently serving in the military with over 20 years of experience as an El
 
 My journey in computer technology has fueled a strong passion for cybersecurity, and I am now focused on transitioning into this field with the goal of contributing to a Security Operations Center (SOC) as a Tier 1 Analyst or applying my skills as a Penetration Tester.
 
-## Skills
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSAP-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+
+
+## Skills
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Remote Access Device Deployment & Configuration | <a href="https://github.com/ScarletN3xus/Wireless-Penetration-Devices">Wireless Penetration Devices</a>|
+
+
+
+## Projects
+- [Wireless Penetration Devices](https://github.com/ScarletN3xus/Wireless-Penetration-Devices)
+
 
 
 ## Tools
@@ -40,13 +56,4 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 ### Cloud
 <div>
     
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSAP-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
 
-## Projects
-- [Wireless Penetration Devices](https://github.com/ScarletN3xus/Wireless-Penetration-Devices)
