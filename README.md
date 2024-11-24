@@ -12,7 +12,7 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Remote Access Device Deployment & Configuration | <a href="https://google.com">Detection Lab</a>|
+| Remote Access Device Deployment & Configuration | <a href="https://github.com/ScarletN3xus/Wireless-Penetration-Devices">Wireless Penetration Devices</a>|
 
 
 ## Tools
@@ -49,4 +49,4 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 </div>
 
 ## Projects
-- Wireless Penetration Devices
+- [Wireless Penetration Devices](https://github.com/ScarletN3xus/Wireless-Penetration-Devices)
