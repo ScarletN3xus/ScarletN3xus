@@ -47,7 +47,6 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -59,5 +58,8 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 
 ### Cloud
 <div>
-    
-
+    <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon EC2 Badge">
+    <img src="https://img.shields.io/badge/-AWS%20Lambda-232F3E?&style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda Badge">
+    <img src="https://img.shields.io/badge/-AWS%20EKS-232F3E?&style=for-the-badge&logo=amazon-eks&logoColor=white" alt="AWS EKS Badge">
+    <img src="https://img.shields.io/badge/-AWS%20Fargate-232F3E?&style=for-the-badge&logo=aws-fargate&logoColor=white" alt="AWS Fargate Badge">
+</div>
