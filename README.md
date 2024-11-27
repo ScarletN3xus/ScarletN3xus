@@ -11,7 +11,6 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-CSAP-006400?style=for-the-badge&logo=CompTIA&logoColor=white" />    
 <img src="https://img.shields.io/badge/EC--Council-CEH-005C5C?style=for-the-badge&logo=EC-Council&logoColor=white" />
