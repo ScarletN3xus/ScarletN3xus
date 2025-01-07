@@ -61,4 +61,6 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
     <img src="https://img.shields.io/badge/-AWS%20Lambda-232F3E?&style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda Badge">
     <img src="https://img.shields.io/badge/-AWS%20EKS-232F3E?&style=for-the-badge&logo=amazon-eks&logoColor=white" alt="AWS EKS Badge">
     <img src="https://img.shields.io/badge/-AWS%20Fargate-232F3E?&style=for-the-badge&logo=aws-fargate&logoColor=white" alt="AWS Fargate Badge">
+    <img src="https://img.shields.io/badge/-Google%20Cloud-13510387?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/-Google%20Cloud%20Run-13510387?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Run">
 </div>
