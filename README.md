@@ -37,6 +37,7 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-005C5C?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/Netstat-4D4D4D?style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/Nikto-4D4D4D?style=for-the-badge&logo=OpenVAS&logoColor=white" />
