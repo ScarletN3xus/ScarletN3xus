@@ -20,8 +20,7 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 
 ## Cybersecurity Training & Simulation Platforms
 <div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Scarl3tN3xus.png" alt="Your Image Badge" />
-    
+
 </div>
 
 
