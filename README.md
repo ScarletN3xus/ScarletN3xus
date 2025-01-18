@@ -18,10 +18,11 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 </div>
 
 
-## Cybersecurity Training & Simulation Platforms
-<div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Scarl3tN3xus.png" alt="Your Image Badge" />
-</div>
+## TryHackMe Profile
+- **Rank**: Top 4%
+- **Points**: 8000+
+- **Badges**: 10
+- **Completed Rooms**: 55+
 
 
 ## Skills
