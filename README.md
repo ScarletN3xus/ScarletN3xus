@@ -22,12 +22,12 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 
 
 ## TryHackMe Profile
-- **Rank**: Top 3%                
-- **Points**: 12000+
-- **Badges**: 13
-- **Completed Rooms**: 85+
+- **Rank**: Top 2%                
+- **Points**: 15000+
+- **Badges**: 18
+- **Completed Rooms**: 115
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Scarl3tN3xus.png?update=4" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Scarl3tN3xus.png" alt="Your Image Badge" />
 
 
 
