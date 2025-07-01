@@ -17,6 +17,8 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-THM%20SOC%20Level%201-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM SOC Level 1 Badge">
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Computing%20Foundations-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations Badge">
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Fundamentals Badge">
+
 
 </div>
 
@@ -78,4 +80,6 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
     <img src="https://img.shields.io/badge/-AWS%20Fargate-232F3E?&style=for-the-badge&logo=aws-fargate&logoColor=white" alt="AWS Fargate Badge">
     <img src="https://img.shields.io/badge/-Google%20Cloud-13510387?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
     <img src="https://img.shields.io/badge/-Google%20Cloud%20Run-13510387?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Run">
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+
 </div>
