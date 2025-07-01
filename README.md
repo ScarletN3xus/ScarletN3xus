@@ -1,7 +1,7 @@
 # Hello, I'm CHRIS
 <a href="https://www.linkedin.com/in/christopher-toledo-pm-2b7624118/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently serving in the military with over 20 years of experience as an Electronic Warfare and Cyberspace Operator/Planner. I hold a Bachelor's degree in Cybersecurity and a Master's degree in Project Management.
+I am currently serving in the military with over 21 years of experience as an Electronic Warfare and Cyberspace Operator/Planner. I hold a Bachelor's degree in Cybersecurity and a Master's degree in Project Management.
 
 ## Objective
 
