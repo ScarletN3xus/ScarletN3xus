@@ -45,7 +45,7 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 
 ## Projects
 - [Wireless Penetration Devices](https://github.com/ScarletN3xus/Wireless-Penetration-Devices)
-- [Offensive Security & Penetration Testing Lab Environment](https://github.com/kaiju0x/ScarletN3xu/blob/main/Lab%20Environment%20Setup.md)
+- [Offensive Security & Penetration Testing Lab Environment](https://github.com/kaiju0x/ScarletN3xus/blob/main/Lab%20Environment%20Setup.md)
 
 
 
